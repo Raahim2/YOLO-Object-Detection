@@ -1,4 +1,6 @@
-﻿asgiref==3.7.2
+pillow==10.2.0
+ultralytics==8.1.11
+asgiref==3.7.2
 numpy==1.26.3
 python-dateutil==2.8.2
 sqlparse==0.4.4
