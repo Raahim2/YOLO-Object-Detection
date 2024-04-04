@@ -1,12 +1,12 @@
 
 import numpy as np
-from ultralytics import YOLO
-import cv2
+#from ultralytics import YOLO
+#import cv2
 import cvzone
 import math
 
 
-model = YOLO('yolov8n')
+#model = YOLO('yolov8n')
 
 CLASSES = model.names
 CLR= [
