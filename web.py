@@ -1,10 +1,10 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-from ultralytics import YOLO
+#from ultralytics import YOLO
 #from utils import YOLO_DETECT
-
-model = YOLO('yolov8n.pt')
+import cv2
+#model = YOLO('yolov8n.pt')
 
 st.title("YOLO Object Detection")
 c1,c2=st.columns(2)
