@@ -4,3 +4,4 @@ opencv-python==4.9.0.80
 cvzone==1.6.1
 ultralytics==8.1.11
 streamlit==1.32.2
+PyOpenGL==3.1.7
