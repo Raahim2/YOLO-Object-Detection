@@ -1,11 +1,6 @@
-asgiref==3.7.2
-numpy==1.26.3
-python-dateutil==2.8.2
 pillow==10.2.0
-sqlparse==0.4.4
-six==1.16.0
+numpy==1.26.3
 opencv-python==4.9.0.80
 cvzone==1.6.1
-
-tzdata==2023.3
+ultralytics==8.1.11
 streamlit==1.32.2
