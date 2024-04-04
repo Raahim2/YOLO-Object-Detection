@@ -6,6 +6,6 @@ sqlparse==0.4.4
 six==1.16.0
 opencv-python==4.9.0.80
 cvzone==1.6.1
-ultralytics==8.1.11
+
 tzdata==2023.3
 streamlit==1.32.2
