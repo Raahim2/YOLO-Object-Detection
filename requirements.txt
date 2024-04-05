@@ -5,3 +5,4 @@ cvzone==1.6.1
 ultralytics==8.1.11
 streamlit==1.32.2
 opencv-python-headless==4.5.3.56
+opencv-contrib-python==4.5.5.62
