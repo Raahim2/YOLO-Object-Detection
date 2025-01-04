@@ -8,9 +8,10 @@ import numpy as np
 import math
 import base64
 
-model = YOLO('yolov8n')
+# model = YOLO('yolov8n')
+model = "Yolo"
 
-CLASSES = model.names
+# CLASSES = model.names
 CLR= [
     (255, 0, 0),
     (0, 255, 0),
