@@ -1,10 +1,10 @@
 from flask import Flask , render_template , request , Response
-from PIL import Image
+# from PIL import Image
 import io
 import numpy as np
-from ultralytics import YOLO
-import cv2
-import cvzone
+# from ultralytics import YOLO
+# import cv2
+# import cvzone
 import math
 import base64
 
